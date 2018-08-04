@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, Helvetica Neue, Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960 px;
+    font-size: 18px;    
+    }
+    
+    .header {
+        background: #ebebeb;
+        width: 495px;
+        padding: 20px;
+        margin: 0 ;
+        border: 5px; border-color: black;
+        text-align: center;
+    }
+    
+    nav {
+        background: #ebebeb;
+        width:495 px; 
+        padding: 20px;
+        margin: 20px;
+        border: 5px; border-color: black;
+        text-align: center;
+    }
+    
+    section {
+        background: #ebebeb;
+        width: 495px;
+        float: left;
+        padding: 20px;
+        margin: 0 1.5%;
+        border: 5px; border-color: black;
+        text-align: center;
+    }
+    
+    
+    article {
+        color: #ebebeb; background: #777;
+        width: 30%;
+        padding: 20px;
+        margin: 20px;
+        border: 5px; border-color: black;
+        text-align: center;
+        
+    }
+    
+    
+    h1 {
+        color: #777; background: #ebebeb;
+        width: 30%;
+        padding: 20px;
+        margin: 20px;
+        border: 5px; border-color: black;
+        text-align: center;
+        }
+        
+        p {
+            color: #777; background: #ebebeb;
+            width: 30%;
+            padding: 20px;
+            margin: 20px;
+            border: 5px; border-color: black;
+            text-align: center;
+        }
+    
+    
+    
+    aside {
+        background: #ebebeb;
+        width: 250px;
+        float: left;
+        padding: 20px;
+        margin: 0 1.5%;
+        border: 5px; border-color: black;
+        text-align: center;
+    }
+    
+    
+    footer {
+        background: #ebebeb;
+        clear: both;
+        width: 100%;
+        padding: 20px;
+        bottom: 0;
+        position: fixed;
+        margin: 20px;
+        border: 5px; border-color: black;
+        text-align: center;
+    }
